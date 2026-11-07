@@ -12,12 +12,8 @@
 
 ## 🧑‍💻 About Me
 
-I build **retrieval and storage systems for AI agents**, from the vector index up to the permission layer.
-I like problems where correctness matters: crash recovery, auditable search results, and agents that only see what they're allowed to see.
-
-- 🔭 Software Engineer Intern at **Palette (YC S26)**
-- 🌱 Currently building **Find Anything**, permission-aware search for AI agents
-- 📫 Reach me at **jeheon_lee@berkeley.edu**
+I'm a **software engineer** interested in building reliable, scalable systems for AI, from storage engines up to the products people use.
+I enjoy working on real-world problems involving databases, search and retrieval, backend systems, APIs, and product-facing applications.
 
 ---
 
