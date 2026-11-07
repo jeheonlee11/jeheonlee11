@@ -1,11 +1,51 @@
-I build software people have to trust: search that only reads what you allow and cites its evidence, records that prove they weren't changed, and retrieval whose quality is measured. Student in UC Berkeley's Management, Entrepreneurship & Technology program (EECS + Haas).
+<h1 align="center">Hi 👋, I'm Jeheon</h1>
 
-**Selected work**
+<h3 align="center">M.E.T. student studying engineering and business @ UC Berkeley</h3>
 
-- [Find Anything](https://github.com/jeheonlee11-create/find-anything): permission-aware exact search over the Google Drive files you choose, with page, slide and cell citations. Live public beta at [findanything.dev](https://findanything.dev).
-- [AIR](https://github.com/jeheonlee11-create/air): turns a drone flight log into rule-based findings and a signed, tamper-evident record with an offline verifier.
-- [OSDR search](https://github.com/jeheonlee11-create/osdr-search): plain-English search over NASA's 641 space-biology datasets; hybrid BM25 + embedding retrieval, evaluated with recall, MRR and nDCG.
-- [Again](https://github.com/jeheonlee11-create/again): offline-first web app that ranks a household's dinners by pairwise matchups and suggests what to cook.
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeheonlee"><img src="https://img.shields.io/badge/LinkedIn-Jeheon%20Lee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:jeheon_lee@berkeley.edu"><img src="https://img.shields.io/badge/Email-jeheon__lee%40berkeley.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://jeheonlee11.github.io"><img src="https://img.shields.io/badge/Website-jeheonlee11.github.io-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+</p>
 
+---
 
-[Portfolio](https://jeheonlee11-create.github.io) · [jeheonlee11@gmail.com](mailto:jeheonlee11@gmail.com)
+## 🧑‍💻 About Me
+
+I build **retrieval and storage systems for AI agents**, from the vector index up to the permission layer.
+I like problems where correctness matters: crash recovery, auditable search results, and agents that only see what they're allowed to see.
+
+- 🔭 Software Engineer Intern at **Palette (YC S26)**
+- 🌱 Currently building **Find Anything**, permission-aware search for AI agents
+- 📫 Reach me at **jeheon_lee@berkeley.edu**
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/jeheonlee11-create/StrataDB"><img src="https://img.shields.io/badge/StrataDB-000000?style=for-the-badge&logo=github&logoColor=white" alt="StrataDB" /></a>
+  <a href="https://github.com/jeheonlee11-create/lightrag-strata"><img src="https://img.shields.io/badge/lightrag--strata-24292F?style=for-the-badge&logo=github&logoColor=white" alt="lightrag-strata" /></a>
+  <a href="https://findanything.dev"><img src="https://img.shields.io/badge/Find%20Anything-30363D?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Find Anything" /></a>
+</p>
+
+| Project | What it is |
+|---|---|
+| **StrataDB** | Embedded vector database built from scratch in Python and C. Write-ahead log, crash recovery, hybrid BM25 + HNSW search. 0.53 ms p50 latency at recall 1.0 on 1M vectors. |
+| **lightrag-strata** | Fully local graph RAG system with a LightRAG storage backend on StrataDB. Local, global, hybrid, and naive retrieval with no API key. |
+| **Find Anything** | Permission-aware search platform for AI agents. OAuth 2.0 + PKCE, access-filtered indexing, and replayable receipts tracing every result to its source. |
+
+---
+
+## 🧰 Languages, Tools & Frameworks
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,ts,js,react,fastapi,cloudflare,workers,postgres,git,github,linux&perline=12" alt="Skills" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeheonlee11-create&show_icons=true&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeheonlee11-create&layout=compact&hide_border=true" alt="Top languages" height="165" />
+</p>
