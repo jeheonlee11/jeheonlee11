@@ -10,10 +10,10 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **software engineer** interested in building reliable, scalable systems for AI, from storage engines up to the products people use.
-I enjoy working on real-world problems involving databases, search and retrieval, backend systems, APIs, and product-facing applications.
+I'm a **software engineer** interested in building reliable, high-performance systems for AI, from the database layer up.
+I enjoy working on real-world problems involving vector search, retrieval, backend infrastructure, and the products that sit on top of them.
 
 ---
 
