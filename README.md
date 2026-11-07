@@ -24,8 +24,8 @@ I like problems where correctness matters: crash recovery, auditable search resu
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/jeheonlee11-create/StrataDB"><img src="https://img.shields.io/badge/StrataDB-000000?style=for-the-badge&logo=github&logoColor=white" alt="StrataDB" /></a>
-  <a href="https://github.com/jeheonlee11-create/lightrag-strata"><img src="https://img.shields.io/badge/lightrag--strata-24292F?style=for-the-badge&logo=github&logoColor=white" alt="lightrag-strata" /></a>
+  <a href="https://github.com/jeheonlee11/StrataDB"><img src="https://img.shields.io/badge/StrataDB-000000?style=for-the-badge&logo=github&logoColor=white" alt="StrataDB" /></a>
+  <a href="https://github.com/jeheonlee11/lightrag-strata"><img src="https://img.shields.io/badge/lightrag--strata-24292F?style=for-the-badge&logo=github&logoColor=white" alt="lightrag-strata" /></a>
   <a href="https://findanything.dev"><img src="https://img.shields.io/badge/Find%20Anything-30363D?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Find Anything" /></a>
 </p>
 
@@ -46,6 +46,6 @@ I like problems where correctness matters: crash recovery, auditable search resu
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeheonlee11-create&show_icons=true&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeheonlee11-create&layout=compact&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jeheonlee11&show_icons=true&hide_border=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeheonlee11&layout=compact&hide_border=true" alt="Top languages" height="165" />
 </p>
