@@ -33,13 +33,6 @@ I enjoy working on real-world problems involving vector search, retrieval, backe
 
 ---
 
-## 🧰 Languages, Tools & Frameworks
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,ts,js,react,fastapi,cloudflare,workers,postgres,git,github,linux&perline=12" alt="Skills" />
-</p>
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jeheonlee11&show_icons=true&hide_border=true" alt="GitHub stats" height="165" />
